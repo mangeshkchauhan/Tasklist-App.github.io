@@ -133,9 +133,8 @@ main{
     color: crimson;
 }
 #clear{
-    text-align: right;
-    margin-right: 2rem;
-    margin-bottom: 2rem;
+    text-align: center;
+    margin-bottom: 70%;
 }
 #clear-all{
     align-items: center;
